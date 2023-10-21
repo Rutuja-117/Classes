@@ -1,6 +1,4 @@
-/*PRN: 22070123117
-Experiment_11(c)
-*/
+
 
 #include<iostream>
 #include<math.h>
