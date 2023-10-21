@@ -1,6 +1,4 @@
-/*PRN: 22070123117
-Experiment_11(e)
-*/
+
 #include <iostream>
 using namespace std;
 int count =0;
